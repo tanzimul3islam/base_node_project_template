@@ -19,6 +19,8 @@ Lets take a look inside the `src` folder
 
  - `utils` -> contains helper methods, error classes etc.
 
+ - - controllers -> services ->  repositories
+
 ### Setup the project
 
  - Download this template from github and open it in your favourite text editor. 
